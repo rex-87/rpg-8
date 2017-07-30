@@ -1,0 +1,7 @@
+#ifndef SEQUENCEUR_H_INCLUDED
+#define SEQUENCEUR_H_INCLUDED
+
+extern COMCPLED ledR;
+extern COMCPLED ledL;
+
+#endif // SEQUENCEUR_H_INCLUDED

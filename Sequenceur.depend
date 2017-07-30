@@ -1,0 +1,176 @@
+# depslib dependency file v1.0
+1393274986 source:/home/romy0/Documents/Seq_svn/dataflash.c
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	"dataflash.h"
+
+1394400790 /home/romy0/Documents/Seq_svn/dataflash.h
+
+1395513188 source:/home/romy0/Documents/Seq_svn/functions.c
+	"functions.h"
+
+1395507475 /home/romy0/Documents/Seq_svn/functions.h
+	"def.h"
+
+1395509342 /home/romy0/Documents/Seq_svn/def.h
+	<avr/interrupt.h>
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<util/delay.h>
+	<stdlib.h>
+	<string.h>
+	"dataflash.h"
+
+1393274986 source:/home/romy0/Documents/Seq_svn/lcd_lib.c
+	"lcd_lib.h"
+	"def.h"
+
+1393274986 /home/romy0/Documents/Seq_svn/lcd_lib.h
+	<inttypes.h>
+
+1393274986 source:/home/romy0/Documents/Seq_svn/midi.c
+	"midi.h"
+
+1395501834 /home/romy0/Documents/Seq_svn/midi.h
+	"def.h"
+
+1394130320 source:/home/romy0/Documents/Seq_svn/rpg8.c
+	"rpg8.h"
+
+1393936150 /home/romy0/Documents/Seq_svn/rpg8.h
+	"def.h"
+	"midi.h"
+
+1395506712 source:/home/romy0/Documents/Seq_svn/Sequenceur.c
+	"def.h"
+	"functions.h"
+	"dataflash.h"
+	"rpg8.h"
+	"midi.h"
+	"lcd_lib.h"
+
+1404843658 source:/home/romy0/Documents/Seq/misc.c
+	"misc.h"
+
+1404843676 /home/romy0/Documents/Seq/misc.h
+	<avr/interrupt.h>
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	<util/delay.h>
+
+1404834968 /home/romy0/Documents/Seq/lcd.h
+	<inttypes.h>
+	<avr/pgmspace.h>
+
+1404835125 source:/home/romy0/Documents/Seq/lcd.c
+	"misc.h"
+	"lcd.h"
+
+1404843667 source:/home/romy0/Documents/Seq/Sequenceur.c
+	"misc.h"
+	"lcd.h"
+
+1428847989 source:d:\mestravaux\rpg-8hw\src\lcd.c
+	"misc.h"
+	"lcd.h"
+
+1429108573 d:\mestravaux\rpg-8hw\src\misc.h
+	<avr/interrupt.h>
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	<util/delay.h>
+
+1429045922 d:\mestravaux\rpg-8hw\src\lcd.h
+	<inttypes.h>
+	<avr/pgmspace.h>
+
+1428777625 source:d:\mestravaux\rpg-8hw\src\midi.c
+	"misc.h"
+	"midi.h"
+
+1428777608 d:\mestravaux\rpg-8hw\src\midi.h
+
+1429043420 source:d:\mestravaux\rpg-8hw\src\misc.c
+	"misc.h"
+	"rpg8.h"
+
+1429109898 source:d:\mestravaux\rpg-8hw\src\sequenceur.c
+	"misc.h"
+	"midi.h"
+	"lcd.h"
+	"rpg8.h"
+
+1429111586 source:d:\mestravaux\rpg-8hw\src\rpg8.c
+	"misc.h"
+	"rpg8.h"
+	"midi.h"
+	"Sequenceur.h"
+
+1429106292 d:\mestravaux\rpg-8hw\src\rpg8.h
+
+1428959541 d:\mestravaux\rpg-8hw\src\sequenceur.h
+
+1393282186 source:c:\users\rex87\documents\github\rpg-8\dataflash.c
+	<stdint.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/pgmspace.h>
+	"dataflash.h"
+
+1393282186 c:\users\rex87\documents\github\rpg-8\dataflash.h
+
+1428855189 source:c:\users\rex87\documents\github\rpg-8\lcd.c
+	"misc.h"
+	"lcd.h"
+
+1429115773 c:\users\rex87\documents\github\rpg-8\misc.h
+	<avr/interrupt.h>
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<inttypes.h>
+	<stdlib.h>
+	<string.h>
+	<util/delay.h>
+
+1429053122 c:\users\rex87\documents\github\rpg-8\lcd.h
+	<inttypes.h>
+	<avr/pgmspace.h>
+
+1428784825 source:c:\users\rex87\documents\github\rpg-8\midi.c
+	"misc.h"
+	"midi.h"
+
+1428784808 c:\users\rex87\documents\github\rpg-8\midi.h
+
+1429050620 source:c:\users\rex87\documents\github\rpg-8\misc.c
+	"misc.h"
+	"rpg8.h"
+
+1429113492 c:\users\rex87\documents\github\rpg-8\rpg8.h
+
+1446510553 source:c:\users\rex87\documents\github\rpg-8\rpg8.c
+	"misc.h"
+	"rpg8.h"
+	"midi.h"
+	"Sequenceur.h"
+
+1428963141 c:\users\rex87\documents\github\rpg-8\sequenceur.h
+
+1429117098 source:c:\users\rex87\documents\github\rpg-8\sequenceur.c
+	"misc.h"
+	"midi.h"
+	"lcd.h"
+	"rpg8.h"
+
